@@ -15,7 +15,7 @@ This library is an extension for Underscore which allows extending objects and f
 
 ```javascript
 var _ = require('underscore');
-_.mixin(require('underscore.deepclone'));
+_.mixin(require('underscore.deepextend'));
 ```
 
 ## Examples
