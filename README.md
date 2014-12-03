@@ -1,5 +1,6 @@
 underscore.deepextend [![Build Status](https://travis-ci.org/mateusmaso/underscore.deepextend.svg?branch=master)](https://travis-ci.org/mateusmaso/underscore.deepextend)
 =====================
+
 This library is an extension for Underscore which allows extending objects and functions.
 
 ## Features
@@ -8,8 +9,8 @@ This library is an extension for Underscore which allows extending objects and f
 
 ## Dependencies
 
-* underscore.js (>= 1.5)
-  * underscore.catenate
+* underscore.js (>= 1.5.0)
+  * underscore.catenate (>= 0.1.1)
 
 ## Node
 
@@ -31,4 +32,3 @@ object.foo.baz == 321 // true
 ## License
 
 Copyright (c) 2013-2014 Mateus Maso. Released under an MIT license.
-

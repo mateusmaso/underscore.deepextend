@@ -1,7 +1,7 @@
 {
   "name": "underscore.deepextend",
   "description": "Underscore helper for deep extending objects",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "mateusmaso",
   "keywords": ["underscore", "javascript", "deep", "extend"],
   "devDependencies": {
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "underscore": "~1.5.0",
-    "underscore.catenate": "~0.1.0"
+    "underscore.catenate": "~0.1.1"
   },
   "scripts": {
     "test": "grunt mochaTest"
